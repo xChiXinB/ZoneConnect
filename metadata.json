@@ -1,0 +1,9 @@
+{
+  "name": "Beijing Guide - Zone Connect",
+  "description": "An immersive social and guide application for tourists and students in Beijing, featuring real-time radar, community SOS signals, and a digital yuan wallet.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
